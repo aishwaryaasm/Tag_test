@@ -1,1 +1,3 @@
 Teddy is toy for girls
+car 
+bus
